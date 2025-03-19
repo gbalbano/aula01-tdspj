@@ -11,3 +11,15 @@ Este é o meu repositó rio no GitHub. Estou começando minha jornada no mundo d
 📝 Projetos simples e tutoriais
 💡 Anotações e dicas
 🛠️ Experimentos com código
+
+
+3 o COMMIT
+
+🌱 Tecnologias que estou aprendendo:
+HTML
+
+CSS
+
+JavaScript
+
+Git e GitHub
